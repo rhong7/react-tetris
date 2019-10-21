@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { SHAPES, COLORS } from '../configs';
+import { COLORS } from '../configs';
 
 import newId from '../utils/newid.js';
 const BLOCK_SIZE = 30;
